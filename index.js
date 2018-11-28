@@ -1,1 +1,3 @@
-console.log('Hello')
+const h = require('helloer')
+
+h.hello()
